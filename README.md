@@ -3,13 +3,13 @@ GitHub repository of Rodríguez, Fernández-Gracia, Duarte, Irigoien, Eguíluz, 
 
 (doi.org/0.1126/sciadv.abe3470)
 
-##Data
+## Data
 It includes for datasets:
 * Raw trajectory data
 * Fishing effort estimation in the high seas
 * Geographical high seas fishing provinces (shapefile)
 * Global fishing network between high seas fishing provinces and supporting harbors
-##Code
+## Code
 In this folder you can find:
 * Code for extracting the fishing effort in the high seas
 * Code for inferring the connections through vessels' trajectories and computing the fishing provinces
