@@ -15,4 +15,4 @@ In this folder you can find:
 * Code for inferring the connections through vessels' trajectories and computing the fishing provinces
 * Code for inferring the global fishing network between high seas fishing provinces and supporting harbors
 
-![alt text](https://github.com/jorgeprodriguezg/FishingHighSeas/blob/master/f1.png?raw=true)
+
