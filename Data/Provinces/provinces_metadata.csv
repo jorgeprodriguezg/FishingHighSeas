@@ -1,0 +1,15 @@
+Province,Name,Color,Latitude,Longitude
+0,SEI,#ff7f00,-30,90
+1,NS,#e31a1c,70,0
+2,EP,#33a02c,-5,-90
+3,SWI,#cab2d6,-30,50
+4,NWP,#01665e,20,160
+5,CA,#b2df8a,10,-25
+6,NCP,#a6cee3,3,-145
+7,NEP,#bc80bd,30,-160
+8,SP,#f768a1,-40,-170
+9,SEA,#fdbf6f,-20,0
+10,NI,#b15928,0,70
+11,SA,#8dd3c7,-40,-50
+12,SCP,#49006a,-15,-120
+13,NA,#1f78b4,40,-40
