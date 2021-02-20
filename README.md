@@ -7,7 +7,7 @@ https://doi.org/10.1126/sciadv.abe3470
 It includes for datasets:
 * Raw trajectory data
 * Fishing effort estimation in the high seas
-* Geographical high seas fishing provinces (shapefile)
+* Geographical high seas fishing provinces
 * Global fishing network between high seas fishing provinces and supporting harbors
 ## Code
 In this folder you can find:
