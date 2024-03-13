@@ -4,7 +4,7 @@ GitHub repository of Rodríguez, Fernández-Gracia, Duarte, Irigoien, Eguíluz, 
 https://doi.org/10.1126/sciadv.abe3470
 
 ## Data
-It includes for datasets:
+It includes four datasets:
 * Raw trajectory data
 * Fishing effort estimation in the high seas
 * Geographical high seas fishing provinces
